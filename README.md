@@ -12,12 +12,12 @@ Discover behind the Scenes Interviews and Cast Bloopers
 
 # To install Dependencies & Run the App
 
-`npm install'
+`npm install`
 
-'sudo npm install — global expo-cli'
+'sudo npm install — global expo-cli`
 
 to run the Expo-Cli and connect on Local Host
 
-`npm start
+`npm start`
 
 *You must have Expo Go installed on your Phone.
