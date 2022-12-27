@@ -9,3 +9,13 @@ The app allows it's users to add their Movies to their favourite List and remove
 
 ### Explore Behind the Scene Trailers and view all Casts
 Discover behind the Scenes Interviews and Cast Bloopers 
+
+# To Run this App
+
+`npm install` 
+
+to install Dependencies
+
+`npm start`
+
+to run the Expo-Cli and connect on Local Host
