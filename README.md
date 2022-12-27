@@ -14,7 +14,7 @@ Discover behind the Scenes Interviews and Cast Bloopers
 
 `npm install`
 
-'sudo npm install — global expo-cli`
+`npm install -g expo-cli`
 
 to run the Expo-Cli and connect on Local Host
 
