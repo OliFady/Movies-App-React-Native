@@ -10,12 +10,14 @@ The app allows it's users to add their Movies to their favourite List and remove
 ### Explore Behind the Scene Trailers and view all Casts
 Discover behind the Scenes Interviews and Cast Bloopers 
 
-# To Run this App
+# To install Dependencies & Run the App
 
-`npm install` 
+`npm install'
 
-to install Dependencies
-
-`npm start`
+'sudo npm install — global expo-cli'
 
 to run the Expo-Cli and connect on Local Host
+
+`npm start
+
+*You must have Expo Go installed on your Phone.
